@@ -12,7 +12,7 @@
 
 //======================================================================================================================================//
 //                                                                                                                                      //
-//   ! Special thanks to Viacheslav Boretskij and Maksym Matsyuk for mentoring and assistance throughout the project development :) !   //
+//   ! Special thanks to Viacheslav Boretskij and Maksym Matsiuk for mentoring and assistance throughout the project development :) !   //
 //                                                                                                                                      //
 //======================================================================================================================================//
 
@@ -256,4 +256,5 @@ void loop() {
     
     delay(PAUSE_DELAY_MS);
   }
+
 }
